@@ -3,3 +3,7 @@ D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\bin\Debug\TescoHudl.Api.Repository
 D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.csprojResolveAssemblyReference.cache
 D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.dll
 D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.pdb
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Repository\bin\Debug\TescoHudl.Api.Repository.dll
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Repository\bin\Debug\TescoHudl.Api.Repository.pdb
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.dll
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.pdb

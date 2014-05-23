@@ -3,3 +3,7 @@ D:\GitHub\Tesco.Hudl\TescoHudl.Api.Domain\bin\Debug\TescoHudl.Api.Domain.pdb
 D:\GitHub\Tesco.Hudl\TescoHudl.Api.Domain\obj\Debug\TescoHudl.Api.Domain.csprojResolveAssemblyReference.cache
 D:\GitHub\Tesco.Hudl\TescoHudl.Api.Domain\obj\Debug\TescoHudl.Api.Domain.dll
 D:\GitHub\Tesco.Hudl\TescoHudl.Api.Domain\obj\Debug\TescoHudl.Api.Domain.pdb
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Domain\bin\Debug\TescoHudl.Api.Domain.dll
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Domain\bin\Debug\TescoHudl.Api.Domain.pdb
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Domain\obj\Debug\TescoHudl.Api.Domain.dll
+D:\Hudl-Tessco\hu\Tesco.Hudl\TescoHudl.Api.Domain\obj\Debug\TescoHudl.Api.Domain.pdb

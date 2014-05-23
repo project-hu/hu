@@ -2,3 +2,7 @@ D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\bin\Debug\TestHudl.Api.QueryServ
 D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\bin\Debug\TestHudl.Api.QueryServices.pdb
 D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\obj\Debug\TestHudl.Api.QueryServices.dll
 D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\obj\Debug\TestHudl.Api.QueryServices.pdb
+D:\Hudl-Tessco\hu\Tesco.Hudl\TestHudl.Api.QueryServices\bin\Debug\TestHudl.Api.QueryServices.dll
+D:\Hudl-Tessco\hu\Tesco.Hudl\TestHudl.Api.QueryServices\bin\Debug\TestHudl.Api.QueryServices.pdb
+D:\Hudl-Tessco\hu\Tesco.Hudl\TestHudl.Api.QueryServices\obj\Debug\TestHudl.Api.QueryServices.dll
+D:\Hudl-Tessco\hu\Tesco.Hudl\TestHudl.Api.QueryServices\obj\Debug\TestHudl.Api.QueryServices.pdb
