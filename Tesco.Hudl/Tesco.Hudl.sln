@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Tesco.Hudl.Api", "Tesco.Hudl.Api\Tesco.Hudl.Api.ccproj", "{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TescoHudl.Api.Worker", "TescoHudl.Api.Worker\TescoHudl.Api.Worker.ccproj", "{A52EDA09-9174-463D-999C-BC1CC4FAA027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.CommandEventWorker", "TescoHudl.Api.CommandEventWorker\TescoHudl.Api.CommandEventWorker.csproj", "{55336515-F5F7-4599-A0F9-F1B1624E6AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Domain", "TescoHudl.Api.Domain\TescoHudl.Api.Domain.csproj", "{3FC5AB06-0E12-4054-848B-9CD2FA751855}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Repository", "TescoHudl.Api.Repository\TescoHudl.Api.Repository.csproj", "{B6052EB8-4E45-4797-B95F-21383AB1F113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Commands", "TescoHudl.Api.Commands\TescoHudl.Api.Commands.csproj", "{8D6373A2-6F3D-43E4-A210-480BF143581C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Events", "TescoHudl.Api.Events\TescoHudl.Api.Events.csproj", "{82E0F020-DABD-4AB0-8F8B-C8EB03C7CE01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHudl.Api.QueryServices", "TestHudl.Api.QueryServices\TestHudl.Api.QueryServices.csproj", "{BFE06C13-9B3C-41FE-AA6F-0458C15C1F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.CommandServices", "TescoHudl.Api.CommandServices\TescoHudl.Api.CommandServices.csproj", "{4D3ECD7E-AFAA-43A7-B461-0ACC2484D0DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.QueryModel", "TescoHudl.Api.QueryModel\TescoHudl.Api.QueryModel.csproj", "{7AD7AA7F-CA61-4904-8B2A-D0C75AA28F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Admin.UI", "TescoHudl.Admin.UI\TescoHudl.Admin.UI.csproj", "{4C32C5EC-31A6-414E-BAD9-165B01D26CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Services", "TescoHudl.Api.Services\TescoHudl.Api.Services.csproj", "{317C1999-1396-48C1-9AFA-2B9958CE25DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Services.Tests.Unit", "TescoHudl.Api.Services.Tests.Unit\TescoHudl.Api.Services.Tests.Unit.csproj", "{850FDAB6-2009-4410-AAFF-16E7356D0D07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{072EC278-14E2-45A7-872C-19000C5D475C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52EDA09-9174-463D-999C-BC1CC4FAA027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52EDA09-9174-463D-999C-BC1CC4FAA027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52EDA09-9174-463D-999C-BC1CC4FAA027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52EDA09-9174-463D-999C-BC1CC4FAA027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55336515-F5F7-4599-A0F9-F1B1624E6AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55336515-F5F7-4599-A0F9-F1B1624E6AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55336515-F5F7-4599-A0F9-F1B1624E6AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55336515-F5F7-4599-A0F9-F1B1624E6AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC5AB06-0E12-4054-848B-9CD2FA751855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC5AB06-0E12-4054-848B-9CD2FA751855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC5AB06-0E12-4054-848B-9CD2FA751855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC5AB06-0E12-4054-848B-9CD2FA751855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6052EB8-4E45-4797-B95F-21383AB1F113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6052EB8-4E45-4797-B95F-21383AB1F113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6052EB8-4E45-4797-B95F-21383AB1F113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6052EB8-4E45-4797-B95F-21383AB1F113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6373A2-6F3D-43E4-A210-480BF143581C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6373A2-6F3D-43E4-A210-480BF143581C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6373A2-6F3D-43E4-A210-480BF143581C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6373A2-6F3D-43E4-A210-480BF143581C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E0F020-DABD-4AB0-8F8B-C8EB03C7CE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E0F020-DABD-4AB0-8F8B-C8EB03C7CE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E0F020-DABD-4AB0-8F8B-C8EB03C7CE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E0F020-DABD-4AB0-8F8B-C8EB03C7CE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE06C13-9B3C-41FE-AA6F-0458C15C1F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE06C13-9B3C-41FE-AA6F-0458C15C1F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE06C13-9B3C-41FE-AA6F-0458C15C1F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE06C13-9B3C-41FE-AA6F-0458C15C1F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3ECD7E-AFAA-43A7-B461-0ACC2484D0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3ECD7E-AFAA-43A7-B461-0ACC2484D0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3ECD7E-AFAA-43A7-B461-0ACC2484D0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3ECD7E-AFAA-43A7-B461-0ACC2484D0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD7AA7F-CA61-4904-8B2A-D0C75AA28F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD7AA7F-CA61-4904-8B2A-D0C75AA28F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD7AA7F-CA61-4904-8B2A-D0C75AA28F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD7AA7F-CA61-4904-8B2A-D0C75AA28F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C32C5EC-31A6-414E-BAD9-165B01D26CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C32C5EC-31A6-414E-BAD9-165B01D26CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C32C5EC-31A6-414E-BAD9-165B01D26CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C32C5EC-31A6-414E-BAD9-165B01D26CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317C1999-1396-48C1-9AFA-2B9958CE25DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317C1999-1396-48C1-9AFA-2B9958CE25DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317C1999-1396-48C1-9AFA-2B9958CE25DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317C1999-1396-48C1-9AFA-2B9958CE25DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

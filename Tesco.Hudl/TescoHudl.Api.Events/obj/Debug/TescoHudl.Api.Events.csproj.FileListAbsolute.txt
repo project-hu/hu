@@ -1,0 +1,4 @@
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Events\bin\Debug\TescoHudl.Api.Events.dll
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Events\bin\Debug\TescoHudl.Api.Events.pdb
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Events\obj\Debug\TescoHudl.Api.Events.dll
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Events\obj\Debug\TescoHudl.Api.Events.pdb

@@ -1,0 +1,2 @@
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Worker\bin\Debug\ServiceConfiguration.cscfg
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Worker\bin\Debug\ServiceDefinition.csdef

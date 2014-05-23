@@ -1,0 +1,4 @@
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Commands\bin\Debug\TescoHudl.Api.Commands.dll
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Commands\bin\Debug\TescoHudl.Api.Commands.pdb
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Commands\obj\Debug\TescoHudl.Api.Commands.dll
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Commands\obj\Debug\TescoHudl.Api.Commands.pdb

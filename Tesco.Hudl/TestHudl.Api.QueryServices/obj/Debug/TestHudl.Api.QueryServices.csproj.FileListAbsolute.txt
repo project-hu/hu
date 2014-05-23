@@ -1,0 +1,4 @@
+D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\bin\Debug\TestHudl.Api.QueryServices.dll
+D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\bin\Debug\TestHudl.Api.QueryServices.pdb
+D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\obj\Debug\TestHudl.Api.QueryServices.dll
+D:\GitHub\Tesco.Hudl\TestHudl.Api.QueryServices\obj\Debug\TestHudl.Api.QueryServices.pdb

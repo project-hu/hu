@@ -1,0 +1,59 @@
+[Tt]humbs.db
+*.DS_Store
+*.dll
+*.pdb
+#
+#Visual Studio files
+#
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+output/
+#
+#Tooling
+#
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+ 
+#
+#Project files
+#
+[Bb]uild/
+ 
+#
+#Subversion files
+#
+.svn
+ 
+#
+# Microsoft Office Temp Files
+#
+~$*
+ 
+# End of File
+Dcip.KeyVault/ConsoleApplication1/App.config
+Dcip.KeyVault/ConsoleApplication1/ConsoleApplication1.csproj
+Dcip.KeyVault/ConsoleApplication1/Program.cs
+Dcip.KeyVault/ConsoleApplication1/Properties/AssemblyInfo.cs

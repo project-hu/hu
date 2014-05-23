@@ -1,0 +1,5 @@
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\bin\Debug\TescoHudl.Api.Repository.dll
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\bin\Debug\TescoHudl.Api.Repository.pdb
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.csprojResolveAssemblyReference.cache
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.dll
+D:\GitHub\Tesco.Hudl\TescoHudl.Api.Repository\obj\Debug\TescoHudl.Api.Repository.pdb
