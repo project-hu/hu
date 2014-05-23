@@ -11,7 +11,7 @@
     <RootNamespace>Tesco.Hudl.Api</RootNamespace>
     <AssemblyName>Tesco.Hudl.Api</AssemblyName>
     <StartDevelopmentStorage>True</StartDevelopmentStorage>
-    <Name>Tesco.Hudl.Api</Name>
+    <Name>TescoHudl.Api.Web</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

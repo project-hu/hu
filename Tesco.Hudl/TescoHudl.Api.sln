@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Tesco.Hudl.Api", "Tesco.Hudl.Api\Tesco.Hudl.Api.ccproj", "{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}"
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TescoHudl.Api.Web", "Tesco.Hudl.Api\TescoHudl.Api.Web.ccproj", "{1F8BB81B-9CE0-4B73-827A-D8A088EE3F58}"
 EndProject
 Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TescoHudl.Api.Worker", "TescoHudl.Api.Worker\TescoHudl.Api.Worker.ccproj", "{A52EDA09-9174-463D-999C-BC1CC4FAA027}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TescoHudl.Api.Services.Tests.Unit", "TescoHudl.Api.Services.Tests.Unit\TescoHudl.Api.Services.Tests.Unit.csproj", "{850FDAB6-2009-4410-AAFF-16E7356D0D07}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{072EC278-14E2-45A7-872C-19000C5D475C}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "TescoHudl.Admin", "TescoHudl.Admin\TescoHudl.Admin.ccproj", "{99665590-04B2-436F-B63E-B0B1EDE43B6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -89,6 +91,10 @@ Global
 		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{850FDAB6-2009-4410-AAFF-16E7356D0D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99665590-04B2-436F-B63E-B0B1EDE43B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99665590-04B2-436F-B63E-B0B1EDE43B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99665590-04B2-436F-B63E-B0B1EDE43B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99665590-04B2-436F-B63E-B0B1EDE43B6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
